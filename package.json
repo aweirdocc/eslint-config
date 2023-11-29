@@ -1,6 +1,6 @@
 {
-	"name": "eslint-config",
-	"version": "0.0.1",
+	"name": "weebay-eslint-config",
+	"version": "0.0.2",
 	"description": "My personal ESLint config.",
 	"homepage": "https://github.com/aweirdocc/eslint-config",
 	"repository": {
