@@ -7,7 +7,7 @@
 		"type": "git",
 		"url": "git+https://github.com/aweirdocc/eslint-config.git"
 	},
-	"main": "index.js",
+	"main": "dist/config.js",
 	"files": [
 		"dist"
 	],
